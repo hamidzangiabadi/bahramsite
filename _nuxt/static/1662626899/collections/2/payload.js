@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collections/2", {data:[{}],fetch:{},mutations:[]});
